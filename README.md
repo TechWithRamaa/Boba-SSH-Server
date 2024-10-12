@@ -44,5 +44,6 @@ To get started with any of the server projects, follow these general steps:
 
 ### Acknowledgments
 * Started this mini project while learning Socket Progamming as part of a course
-* Special shout-out to **Educosys**[🔗](https://www.educosys.com/) for meticulously curating this course and skillfully teaching concepts from the ground up
 * Check out the course here: [Advanced C++ with Networking Course](https://register.educosys.com/new-courses)
+* Special shout-out to **Educosys**[🔗](https://www.educosys.com/) for meticulously curating this course and skillfully teaching concepts from the ground up
+
