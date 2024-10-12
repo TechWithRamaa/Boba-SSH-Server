@@ -1,0 +1,54 @@
+# Ignore build directories and temporary files
+/build
+
+
+# Ignore executables
+*.exe
+*.out
+*.o
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore coverage and profiling files
+*.gcda
+*.gcno
+*.gcov
+
+# Ignore compiled libraries
+*.dll
+*.so
+*.dylib
+
+# Ignore package managers' files
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ignore Python virtual environments (if applicable)
+venv/
+__pycache__/
+
+# Ignore Windows-specific generated files
+*.pdb
+*.ilk
+
+# Ignore compiled binaries for different architectures
+bin/
+obj/
+
+# Ignore archives
+*.zip
+*.tar.gz
+*.7z
