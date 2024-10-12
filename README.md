@@ -1,5 +1,5 @@
-## Boba SSH Server
-* Boba SSH Server allows users to securely connect to and manage remote servers via the SSH (Secure Shell) protocol. It provides essential functionalities for securely executing commands, transferring files, and managing server instances, ensuring a safe and encrypted communication channel between clients and the server
+## BoBa SSH Server
+* BoBa SSH Server allows users to securely connect to and manage remote servers via the SSH (Secure Shell) protocol. It provides essential functionalities for securely executing commands, transferring files, and managing server instances, ensuring a safe and encrypted communication channel between clients and the server
 
 ### Key Features
 - **Remote Access**: Execute commands and manage your remote server instances securely over SSH
