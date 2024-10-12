@@ -37,11 +37,12 @@ To get started with any of the server projects, follow these general steps:
    ```
 
 ### Contributions
-* Contributions are welcome! If you have an idea for a new server implementation or improvements to existing projects, feel free to fork the repository and submit a pull request.
+* Contributions are welcome! If you have an idea for a new server implementation or improvements to existing projects, feel free to fork the repository and submit a pull request
 
 ### License
-* This project is licensed under the MIT License - see the LICENSE file for details.
+* This project is licensed under the MIT License - see the LICENSE file for details
 
 ### Acknowledgments
-* Special shout-out to **Educosys** for meticulously curating this course and skillfully teaching concepts from the ground up.
-* Check it out here: [Advanced C++ with Networking Course](https://register.educosys.com/new-courses/26-advanced-c-with-networking).
+* Started this mini project while learning Socket Progamming as part of a course
+* Special shout-out to **Educosys**[🔗](https://www.educosys.com/) for meticulously curating this course and skillfully teaching concepts from the ground up
+* Check it out here: [Advanced C++ with Networking Course](https://register.educosys.com/new-courses)
